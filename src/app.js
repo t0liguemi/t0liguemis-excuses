@@ -13,7 +13,8 @@ const verb = [
   "devoured",
   "eternally doomed",
   "stared too strongly at",
-  "anihilated"
+  "anihilated",
+  "deleted from existance"
 ];
 const victim = [
   "all programmers",
